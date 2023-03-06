@@ -8,7 +8,7 @@ Terraform AWS S3 Module for configuration of one or more KMS Customer managed en
 Example
 -------
 > [Example Module](./example/default) found in `./example/default`
-* [Terraform Docs on S3](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/kms_key)
+* [Terraform Docs on KMS Key](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/kms_key)
 
 
 Inputs 
